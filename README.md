@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello...I'm new member in the GitHub! / Привет...Я новый участник в GitHub
 
 <!--
 **domermega/domermega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
